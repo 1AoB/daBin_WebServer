@@ -1,0 +1,36 @@
+﻿生成启动时间为 2022-07-22 16:03:53。
+日志记录详细程度设置为: Normal。     1>项目“C:\Users\Kevin\Desktop\SimpleHttp\SimpleHttp\SimpleHttp.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“C:\Users\Kevin\Desktop\SimpleHttp\SimpleHttp\obj\x64\Debug\SimpleHttp.tlog\unsuccessfulbuild”执行 Touch 任务。
+       _ValidateSources:
+         正在验证源
+       _CopySources:
+         正在将源远程复制到“192.168.237.131”
+         正在跳过复制文件步骤，因为它们已是最新版本。
+       _ValidateCompatibleRemoteArchitectures:
+         正在验证体系结构
+       _ValidateValidArchitecture:
+         正在验证体系结构
+         当前项目体系结构“x64”兼容远程系统体系结构“x64”(“x64”)。
+       ClCompile:
+         正在启动远程生成
+         正在编译源:
+         正在跳过“C:\Users\Kevin\Desktop\SimpleHttp\SimpleHttp\main.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\SimpleHttp\SimpleHttp\Server.c”，因为它已是最新版本。
+       Link:
+         正在链接对象
+         正在调用“ld”
+         g++ -o "/home/robin/projects/SimpleHttp/bin/x64/Debug/SimpleHttp.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/robin/projects/SimpleHttp/obj/x64/Debug/main.o /home/robin/projects/SimpleHttp/obj/x64/Debug/Server.o -lpthread
+         已完成链接，输出文件名:“/home/robin/projects/SimpleHttp/bin/x64/Debug/SimpleHttp.out”
+         正在将文件“/home/robin/projects/SimpleHttp/bin/x64/Debug/SimpleHttp.out”复制到“C:\Users\Kevin\Desktop\SimpleHttp\SimpleHttp\bin\x64\Debug\SimpleHttp.out”
+         SimpleHttp.vcxproj -> C:\Users\Kevin\Desktop\SimpleHttp\SimpleHttp\bin\x64\Debug\SimpleHttp.out
+       FinalizeBuildStatus:
+         正在删除文件“C:\Users\Kevin\Desktop\SimpleHttp\SimpleHttp\obj\x64\Debug\SimpleHttp.tlog\unsuccessfulbuild”。
+         正在对“C:\Users\Kevin\Desktop\SimpleHttp\SimpleHttp\obj\x64\Debug\SimpleHttp.tlog\SimpleHttp.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Kevin\Desktop\SimpleHttp\SimpleHttp\SimpleHttp.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.95

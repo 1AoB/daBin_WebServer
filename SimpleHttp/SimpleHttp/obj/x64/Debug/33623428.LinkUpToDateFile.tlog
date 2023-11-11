@@ -1,0 +1,1 @@
+g++ -o "/home/robin/projects/SimpleHttp/bin/x64/Debug/SimpleHttp.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/robin/projects/SimpleHttp/obj/x64/Debug/main.o /home/robin/projects/SimpleHttp/obj/x64/Debug/Server.o -lpthread

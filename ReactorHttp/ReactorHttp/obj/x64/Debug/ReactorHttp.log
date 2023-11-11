@@ -1,0 +1,79 @@
+﻿生成启动时间为 2022-08-10 1:34:26。
+日志记录详细程度设置为: Normal。     1>项目“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\ReactorHttp.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\obj\x64\Debug\ReactorHttp.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       _ValidateSources:
+         正在验证源
+       _CopySources:
+         正在将源远程复制到“192.168.237.131”
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\Buffer.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\Channel.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\ChannelMap.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\EpollDispatcher.c”，因为它已是最新版本。
+         正在将文件“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\EventLoop.c”复制到“/home/robin/projects/ReactorHttp/EventLoop.c”
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\HttpRequest.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\Httpresponse.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\main.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\PollDispatcher.c”，因为它已是最新版本。
+         正在将文件“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\SelectDispatcher.c”复制到“/home/robin/projects/ReactorHttp/SelectDispatcher.c”
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\TcpConnection.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\TcpServer.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\ThreadPool.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\WorkerThread.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\Buffer.h”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\Channel.h”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\ChannelMap.h”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\Dispatcher.h”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\EventLoop.h”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\HttpRequest.h”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\HttpResponse.h”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\Log.h”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\TcpConnection.h”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\TcpServer.h”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\ThreadPool.h”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\WorkerThread.h”，因为它已是最新版本。
+       _ValidateCompatibleRemoteArchitectures:
+         正在验证体系结构
+       _ValidateValidArchitecture:
+         正在验证体系结构
+         当前项目体系结构“x64”兼容远程系统体系结构“x64”(“x64”)。
+       ClCompile:
+         正在启动远程生成
+         正在编译源:
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\Buffer.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\Channel.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\ChannelMap.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\EpollDispatcher.c”，因为它已是最新版本。
+         正在调用“g++”
+         g++ -c -x c /home/robin/projects/ReactorHttp/EventLoop.c -g2 -gdwarf-2 -o "/home/robin/projects/ReactorHttp/obj/x64/Debug/EventLoop.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-pointer-sign" -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fexceptions -std=gnu11
+         EventLoop.c
+         已完成编译“/home/robin/projects/ReactorHttp/EventLoop.c”
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\HttpRequest.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\Httpresponse.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\main.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\PollDispatcher.c”，因为它已是最新版本。
+         正在调用“g++”
+         g++ -c -x c /home/robin/projects/ReactorHttp/SelectDispatcher.c -g2 -gdwarf-2 -o "/home/robin/projects/ReactorHttp/obj/x64/Debug/SelectDispatcher.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-pointer-sign" -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fexceptions -std=gnu11
+         SelectDispatcher.c
+         已完成编译“/home/robin/projects/ReactorHttp/SelectDispatcher.c”
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\TcpConnection.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\TcpServer.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\ThreadPool.c”，因为它已是最新版本。
+         正在跳过“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\WorkerThread.c”，因为它已是最新版本。
+       Link:
+         正在链接对象
+         正在调用“ld”
+         g++ -o "/home/robin/projects/ReactorHttp/bin/x64/Debug/ReactorHttp.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/robin/projects/ReactorHttp/obj/x64/Debug/Buffer.o /home/robin/projects/ReactorHttp/obj/x64/Debug/Channel.o /home/robin/projects/ReactorHttp/obj/x64/Debug/ChannelMap.o /home/robin/projects/ReactorHttp/obj/x64/Debug/EpollDispatcher.o /home/robin/projects/ReactorHttp/obj/x64/Debug/EventLoop.o /home/robin/projects/ReactorHttp/obj/x64/Debug/HttpRequest.o /home/robin/projects/ReactorHttp/obj/x64/Debug/Httpresponse.o /home/robin/projects/ReactorHttp/obj/x64/Debug/main.o /home/robin/projects/ReactorHttp/obj/x64/Debug/PollDispatcher.o /home/robin/projects/ReactorHttp/obj/x64/Debug/SelectDispatcher.o /home/robin/projects/ReactorHttp/obj/x64/Debug/TcpConnection.o /home/robin/projects/ReactorHttp/obj/x64/Debug/TcpServer.o /home/robin/projects/ReactorHttp/obj/x64/Debug/ThreadPool.o /home/robin/projects/ReactorHttp/obj/x64/Debug/WorkerThread.o -lpthread
+         已完成链接，输出文件名:“/home/robin/projects/ReactorHttp/bin/x64/Debug/ReactorHttp.out”
+         正在将文件“/home/robin/projects/ReactorHttp/bin/x64/Debug/ReactorHttp.out”复制到“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\bin\x64\Debug\ReactorHttp.out”
+         ReactorHttp.vcxproj -> C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\bin\x64\Debug\ReactorHttp.out
+       FinalizeBuildStatus:
+         正在删除文件“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\obj\x64\Debug\ReactorHttp.tlog\unsuccessfulbuild”。
+         正在对“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\obj\x64\Debug\ReactorHttp.tlog\ReactorHttp.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Kevin\Desktop\ReactorHttp\ReactorHttp\ReactorHttp.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:04.24
